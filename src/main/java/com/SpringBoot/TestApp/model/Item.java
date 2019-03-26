@@ -10,7 +10,7 @@ public class Item {
 		this.price = price;
 	}
 
-	public ItemType getType() {
+	public ItemType getItemType() {
 		return type;
 	}
 
