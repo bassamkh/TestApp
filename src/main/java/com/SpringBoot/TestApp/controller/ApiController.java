@@ -1,4 +1,4 @@
-package com.SpringBoot.TestApp.model.service.controller;
+package com.SpringBoot.TestApp.controller;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

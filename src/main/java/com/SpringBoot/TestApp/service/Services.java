@@ -1,4 +1,4 @@
-package com.SpringBoot.TestApp.model.service;
+package com.SpringBoot.TestApp.service;
 
 import com.SpringBoot.TestApp.model.Bill;
 import com.SpringBoot.TestApp.model.Item;
